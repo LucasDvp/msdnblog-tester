@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Microsoft Dynamics CRM Unified Service Desk</title>
+	<atom:link href="https://blogs.msdn.microsoft.com/usd/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blogs.msdn.microsoft.com/usd</link>
+	<description>Official blog for the Unified Service Desk team</description>
+	<lastBuildDate>Tue, 21 May 2019 15:41:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Deprecation of Unified service desk 3.2 and lower versions, and features</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2019/05/21/deprecation-of-unified-service-desk-3-2-and-lower-versions-and-features/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2019/05/21/deprecation-of-unified-service-desk-3-2-and-lower-versions-and-features/#respond</comments>
+		<pubDate>Tue, 21 May 2019 15:11:11 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team Blog]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=2035</guid>
+		<description><![CDATA[To help provide the best possible Unified Service Desk experiences, we recently announced the General Availability of Unified Service Desk 4.1, delivering improved performance and a host of feature enhancements. Below you’ll find information about the versions and features that have been marked as deprecated with the latest release of Unified Service Desk 4.1. Administrators and IT professionals...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2019/05/21/deprecation-of-unified-service-desk-3-2-and-lower-versions-and-features/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Channel integration in Unified Service Desk</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2019/03/19/channel-integration-in-unified-service-desk/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2019/03/19/channel-integration-in-unified-service-desk/#respond</comments>
+		<pubDate>Tue, 19 Mar 2019 14:18:06 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Agent Productivity]]></category>
+		<category><![CDATA[Channel Integration Framework]]></category>
+		<category><![CDATA[Dynamics 365]]></category>
+		<category><![CDATA[Unified Service Desk]]></category>
+		<category><![CDATA[Unified Service Desk 4.1]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=2025</guid>
+		<description><![CDATA[Channel Integration Framework (CIF) is an extensible framework to integrate third-party channel providers with D365 Unified Interface Apps using a browser-based JavaScript API library. Read more about Dynamics 365 Channel Integration Framework. If you have already developed a cloud-based channel using the Channel Integration Framework APIs, then in this blog I will explain how you...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2019/03/19/channel-integration-in-unified-service-desk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Public preview of Unified Service Desk 4.1</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2019/03/08/public-preview-of-unified-service-desk-4-1/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2019/03/08/public-preview-of-unified-service-desk-4-1/#comments</comments>
+		<pubDate>Fri, 08 Mar 2019 19:15:55 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=1965</guid>
+		<description><![CDATA[We are excited to announce Unified Service Desk 4.1 is now available in public preview with rich feature enhancements, improved performance and reliability. Highlights of preview functionalities: Unified Service Desk with Chrome process Use Chrome Process to host web applications in Unified Service Desk client application. The Chrome Process is based on CefSharp, which is...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2019/03/08/public-preview-of-unified-service-desk-4-1/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Internet Explorer prompts for password after selecting Remember my credentails option</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2018/12/20/internet-explorer-prompts-for-password-after-selecting-remember-my-credentails-option/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2018/12/20/internet-explorer-prompts-for-password-after-selecting-remember-my-credentails-option/#respond</comments>
+		<pubDate>Thu, 20 Dec 2018 12:49:17 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Customer Service]]></category>
+		<category><![CDATA[Dynamics 365]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[Internet Explorer Password Prompt]]></category>
+		<category><![CDATA[Unified Service Desk]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=1935</guid>
+		<description><![CDATA[When you are working on Unified Service Desk client application, the Internet Explorer often prompts for password even though you have selected Remember my credentials options in the Windows Security dialog. The issue is from the Internet Explorer and not from Unified Service Desk. How do I verify if the issue is of Internet Explorer?...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2018/12/20/internet-explorer-prompts-for-password-after-selecting-remember-my-credentails-option/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Public Preview of the ‘Edge Process for Unified Service Desk’</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2018/12/17/public-preview-of-the-edge-process-for-unified-service-desk/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2018/12/17/public-preview-of-the-edge-process-for-unified-service-desk/#comments</comments>
+		<pubDate>Mon, 17 Dec 2018 12:58:02 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Agent Productivity]]></category>
+		<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[Solutions]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=1855</guid>
+		<description><![CDATA[Announcing the public preview of the ‘Edge Process for Unified Service Desk’ to provide more reliable, performant and secure experience to the customers.  Why Microsoft Edge?  A few years ago, Microsoft launched its next generation browser “Edge” and relegated ‘Internet Explorer’ to the legacy browser status for opening web applications. Edge continued to evolve both...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2018/12/17/public-preview-of-the-edge-process-for-unified-service-desk/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Introducing Unified Service Desk Performance Analyzer</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2018/10/29/introducing-unified-service-desk-performance-analyzer/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2018/10/29/introducing-unified-service-desk-performance-analyzer/#comments</comments>
+		<pubDate>Mon, 29 Oct 2018 09:34:46 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=1755</guid>
+		<description><![CDATA[Unified Service Desk Performance Analyzer is a powerful performance monitoring tool that analyzes the operations of your Unified Service Desk client from the performance data logs and generates in-depth report to identify the problematic areas. The report provides a detailed analysis like the duration of every operation so that you focus on these areas to...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2018/10/29/introducing-unified-service-desk-performance-analyzer/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Fix for the non-functioning buttons present in Dynamics 365 command bar after solutions are installed</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2018/10/15/fix-for-the-non-functioning-buttons-present-in-dynamics-365-command-bar-after-usd-solutions-are-installed/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2018/10/15/fix-for-the-non-functioning-buttons-present-in-dynamics-365-command-bar-after-usd-solutions-are-installed/#respond</comments>
+		<pubDate>Mon, 15 Oct 2018 09:39:53 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Solutions]]></category>
+		<category><![CDATA[Dynamics 365]]></category>
+		<category><![CDATA[Dynamics 365 commnad bar]]></category>
+		<category><![CDATA[Dynamics 365 ribbon]]></category>
+		<category><![CDATA[Unified Service Desk]]></category>
+		<category><![CDATA[Unified Service Desk 4.0]]></category>
+		<category><![CDATA[Upgrade]]></category>
+		<category><![CDATA[USD]]></category>
+		<category><![CDATA[USD Solutions]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=1725</guid>
+		<description><![CDATA[In Unified Service Desk, when you are using Customer Service Hub, a Unified Interface app, you will see certain buttons like Quick create, New Activity, New Record and Import data in the Dynamics 365 command bar. Whenever you click these buttons, you experience that the buttons are not functional. The issue of certain buttons being...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2018/10/15/fix-for-the-non-functioning-buttons-present-in-dynamics-365-command-bar-after-usd-solutions-are-installed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unified Service Desk 4.0 is released &#8211; A modern, unified, adaptable, and reliable offering</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2018/08/20/unified-service-desk-4-0-is-released/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2018/08/20/unified-service-desk-4-0-is-released/#comments</comments>
+		<pubDate>Mon, 20 Aug 2018 15:22:08 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Agent Productivity]]></category>
+		<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[USD Tools]]></category>
+		<category><![CDATA[Best Practices Analyzer]]></category>
+		<category><![CDATA[reliability]]></category>
+		<category><![CDATA[Reliability Improvements]]></category>
+		<category><![CDATA[Unified Service Desk]]></category>
+		<category><![CDATA[Unified Service Desk 4.0]]></category>
+		<category><![CDATA[USD]]></category>
+		<category><![CDATA[Web Client - Unified Interface Migration Assistant]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=1525</guid>
+		<description><![CDATA[Continuing towards our goal towards bringing the best and the brightest of Dynamics 365 experiences to our users, enabling our developer community to build and deploy robust solutions, and providing our users and administrators with modern, unified, adaptable and reliable Unified Service Desk experiences, we have released the latest version - Unified Service Desk 4.0....]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2018/08/20/unified-service-desk-4-0-is-released/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>How tab opens in Unified Service Desk considering Sort Order values</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2018/07/04/how-tab-opens-in-unified-service-desk-considering-sort-order-values/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2018/07/04/how-tab-opens-in-unified-service-desk-considering-sort-order-values/#respond</comments>
+		<pubDate>Wed, 04 Jul 2018 08:30:37 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[3.2.0]]></category>
+		<category><![CDATA[CRM Global Manager]]></category>
+		<category><![CDATA[SortOrder]]></category>
+		<category><![CDATA[Toolbar]]></category>
+		<category><![CDATA[USD 3.3]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=1465</guid>
+		<description><![CDATA[In Unified Service Desk, you can configure the hosted controls (tabs) with Sort Order, a value for a hosted control specifies the order in which the hosted  are retrieved and displayed in the agent application. When you open several hosted controls, the Unified Service Desk shows the hosted controls in the sort order specified in...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2018/07/04/how-tab-opens-in-unified-service-desk-considering-sort-order-values/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Best Practices for Unified Service Desk Deployment and Upgrade</title>
+		<link>https://blogs.msdn.microsoft.com/usd/2018/07/03/best-practices-for-unified-service-desk-deployment-and-upgrade/</link>
+		<comments>https://blogs.msdn.microsoft.com/usd/2018/07/03/best-practices-for-unified-service-desk-deployment-and-upgrade/#respond</comments>
+		<pubDate>Tue, 03 Jul 2018 09:05:50 +0000</pubDate>
+		<dc:creator><![CDATA[USD Team]]></dc:creator>
+				<category><![CDATA[Agent Productivity]]></category>
+		<category><![CDATA[Announcement]]></category>
+		<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[USD Tools]]></category>
+		<category><![CDATA[Best Practices Analyzer]]></category>
+		<category><![CDATA[Deployment]]></category>
+		<category><![CDATA[Unified Service Desk]]></category>
+
+		<guid isPermaLink="false">http://blogs.msdn.microsoft.com/usd/?p=1435</guid>
+		<description><![CDATA[As a Unified Service Desk administrator you are tasked with either fresh deployment of Unified Service Desk or an upgrade of the Unified service Desk client or solution bits, for your organization. For such deployment exercise, it is a necessity that you follow the guidelines to minimize the impact and increase the agent productivity. &#160;...]]></description>
+		<wfw:commentRss>https://blogs.msdn.microsoft.com/usd/2018/07/03/best-practices-for-unified-service-desk-deployment-and-upgrade/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

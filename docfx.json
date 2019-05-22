@@ -23,7 +23,8 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "feeds/*"
         ],
         "exclude": [
           "**/obj/**",
